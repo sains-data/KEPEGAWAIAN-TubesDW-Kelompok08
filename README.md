@@ -14,10 +14,10 @@
 ---
 
 ## 👥 Team Members
-* **[Fadhil Fitra Wijaya]** — [122450082]
-* **[Nama Lengkap 2]** — [NIM]
-* **[Nama Lengkap 3]** — [NIM]
-* **[Nama Lengkap 4]** — [NIM]
+* **Fadhil Fitra Wijaya** — 122450082
+* **Nama Lengkap 2** — NIM
+* **Nama Lengkap 3** — NIM
+* **Nama Lengkap 4** — NIM
 
 ## 📘 Project Description
 
