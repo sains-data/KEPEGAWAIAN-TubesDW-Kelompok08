@@ -16,7 +16,7 @@
 ## 👥 Team Members
 * **Fadhil Fitra Wijaya** — 122450082
 * **Ali Aristo Muthahhari Parisi** — 123450088
-* **Nama Lengkap 3** — NIM
+* **Nobel Nizam Fathirizki** — 123450117
 * **Nama Lengkap 4** — NIM
 
 ## 📘 Project Description
